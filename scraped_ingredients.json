@@ -1,0 +1,332 @@
+[
+  {
+    "id": "1e16b395-0cd4-49df-8c22-68e149a88d85",
+    "name": "Sate madura",
+    "origin": "Madura, Jawa Timur",
+    "ingredients": [
+      "ayam"
+    ]
+  },
+  {
+    "id": "f23433c1-b0d9-40f0-8b88-55394781c5fd",
+    "name": "Sekoteng",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "dikonsumsi pada malam hari"
+    ]
+  },
+  {
+    "id": "a820a131-ae79-48e5-8313-0c8136f5728f",
+    "name": "Emping",
+    "origin": "Banten",
+    "ingredients": [
+      "biji melinjo atau belinjo"
+    ]
+  },
+  {
+    "id": "31878a43-1293-428c-9550-27913c2ab43e",
+    "name": "Soto Lamongan",
+    "origin": "Jawa Timur",
+    "ingredients": [
+      "lain",
+      "kuah berkaldu"
+    ]
+  },
+  {
+    "id": "51bd4ca8-3724-499a-8783-c50b9a4cc92d",
+    "name": "Soto Betawi",
+    "origin": "DKI Jakarta",
+    "ingredients": [
+      "jeroan"
+    ]
+  },
+  {
+    "id": "a184d3d3-815c-487e-a618-e2e1e321274f",
+    "name": "Dendeng Balado",
+    "origin": "Sumatera Barat",
+    "ingredients": [
+      "irisan tipis",
+      "dijemur hingga kering",
+      "akan digoreng hingga garing"
+    ]
+  },
+  {
+    "id": "0cc81713-1ca7-4c12-a718-122952f09615",
+    "name": "Ayam Betutu",
+    "origin": "Bali",
+    "ingredients": [
+      "ayam atau bebek utuh yang berisi bumbu",
+      "kemudian dipanggang dengan bara sekam"
+    ]
+  },
+  {
+    "id": "8e888ee4-df0a-4688-a9c5-a900b8d0e780",
+    "name": "Bebalung",
+    "origin": "Nusa Tenggara Barat",
+    "ingredients": [
+      "iga sapi atau daging sapi sebagai bahan utamanya"
+    ]
+  },
+  {
+    "id": "dfb367f1-b543-4b0e-ba42-634f287ab253",
+    "name": "Ayam Tangkap",
+    "origin": "Aceh",
+    "ingredients": [
+      "ayam yang digoreng dengan bumbu",
+      "rempah-rempah khas Aceh"
+    ]
+  },
+  {
+    "id": "cdbdd121-7ccb-45d4-b043-60d5b4f4e5e5",
+    "name": "Soto Banjar",
+    "origin": "Kalimantan Selatan",
+    "ingredients": [
+      "daging ayam yang sudah disuwir",
+      "perkedel kentang",
+      "rebusan telur",
+      "potongan ketupat"
+    ]
+  },
+  {
+    "id": "75d4cb8e-07a4-47d2-a26f-ecb13d73cd6a",
+    "name": "Coto Makassar",
+    "origin": "Sulawesi Selatan",
+    "ingredients": [
+      "jeroan sapi yang direbus dalam waktu yang lama"
+    ]
+  },
+  {
+    "id": "29cc4416-d313-46d3-a91e-4e893feeb257",
+    "name": "Seruit",
+    "origin": "Lampung",
+    "ingredients": [
+      "pelengkap seperti tempoyak",
+      "lalapan",
+      "atau bahkan buah mangga kweni muda"
+    ]
+  },
+  {
+    "id": "a863b3e4-ffe0-4dad-bad1-e0ef38aea5b6",
+    "name": "Sate Ayam",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "daging yang dipotong kecil",
+      "kemudian dipanggang menggunakan bara arang kayu"
+    ]
+  },
+  {
+    "id": "6c25af11-a248-4df7-8220-26c8a4297137",
+    "name": "Babi Guling",
+    "origin": "Bali",
+    "ingredients": [
+      "sayuran seperti daun ketela pohon",
+      "renyah"
+    ]
+  },
+  {
+    "id": "7f348c2c-9ecc-4148-b39f-dee60d0bb087",
+    "name": "Telur pindang",
+    "origin": "Indonesia",
+    "ingredients": [
+      "tanaman herbal tertentu sehingga memiliki rasa",
+      "aroma",
+      "kenampakan yang khas"
+    ]
+  },
+  {
+    "id": "0868f3c7-cbd2-47b1-a4b6-ec7b5957a634",
+    "name": "Woku",
+    "origin": "Sulawesi Utara",
+    "ingredients": [
+      "berbagai macam bumbu",
+      "biasa digunakan untuk memasak daging"
+    ]
+  },
+  {
+    "id": "f89b8695-50eb-466d-8921-71cf0677f802",
+    "name": "Mun tahu",
+    "origin": "Chinese, DKI Jakarta",
+    "ingredients": [
+      "saus putih kental gurih",
+      "kemudian dicampur dengan daging ayam cincang",
+      "udang"
+    ]
+  },
+  {
+    "id": "43674b84-6ce3-43b8-8d91-46e06d7443ef",
+    "name": "Sapo tahu",
+    "origin": "Chinese, DKI Jakarta",
+    "ingredients": [
+      "tidak menggunakan daging atau ikan",
+      "melainkan hanya sayur",
+      "rempah-rempah"
+    ]
+  },
+  {
+    "id": "5c62cefb-a899-4c1b-8a21-7c251184899a",
+    "name": "Tahu goreng",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "tahu yang lembut",
+      "atau hanya berupa kulit luarnya saja",
+      "yang dikenal sebagai tahu kopong"
+    ]
+  },
+  {
+    "id": "23a8e549-10c2-47ee-bbaa-73fe325c7b74",
+    "name": "Dendeng",
+    "origin": "Minangkabau, Sumatera Barat",
+    "ingredients": [
+      "satu jenis daging saja",
+      "yaitu daging sapi"
+    ]
+  },
+  {
+    "id": "fc96274f-452d-422e-bc0f-c2b7e0f851b8",
+    "name": "Bubur ayam",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "rasa"
+    ]
+  },
+  {
+    "id": "70fd7619-89e9-481f-891e-8d13957c0579",
+    "name": "Docang",
+    "origin": "Jawa Barat",
+    "ingredients": [
+      "campuran potongan lontong",
+      "parutan kelapa",
+      "daun singkong",
+      "daun kucai",
+      "toge",
+      "kerupuk"
+    ]
+  },
+  {
+    "id": "d7ed09ca-8832-4b10-b308-c6e9c0964011",
+    "name": "Kupat tahu",
+    "origin": "Sunda, Jawa Barat",
+    "ingredients": [
+      "Petis",
+      "ditambah irisan timun segar"
+    ]
+  },
+  {
+    "id": "bc4ec975-8872-4ef2-b082-b3f3f939a3cf",
+    "name": "Tempoyak",
+    "origin": "Lampung",
+    "ingredients": [
+      "durian yang sudah melalui proses fermentasi"
+    ]
+  },
+  {
+    "id": "ac8233c4-9497-4da0-83f0-885ee7a7ef5e",
+    "name": "Ayam Cincane",
+    "origin": "Kalimantan Timur",
+    "ingredients": [
+      "ayam kampung sebagai bahan utamanya",
+      "sehingga menghasilkan rasa khas yang gurih"
+    ]
+  },
+  {
+    "id": "7852972e-99af-4e75-abc0-231fda2ae220",
+    "name": "Nasi bakar",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "beberapa bumbu",
+      "lauk",
+      "kemudian dibungkus dengan Daun pisang",
+      "lalu dibakar di atas api menyala"
+    ]
+  },
+  {
+    "id": "039976c5-c684-47b0-9eeb-ab76861cc5c5",
+    "name": "Nasi bebek",
+    "origin": "Chinese, DKI Jakarta",
+    "ingredients": [
+      "bebek bakar atau rebus",
+      "nasi putih"
+    ]
+  },
+  {
+    "id": "1165ba18-8ddf-4688-af95-49e7849db562",
+    "name": "Rijsttafel",
+    "origin": "Indonesia",
+    "ingredients": [
+      "peranti makan lengkap",
+      "yaitu piring",
+      "sendok",
+      "garpu"
+    ]
+  },
+  {
+    "id": "7bb1b102-90d9-46d6-81c0-d18877587dc7",
+    "name": "Tumpeng",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "anyaman bambu) yang telah dialasi daun pisang"
+    ]
+  },
+  {
+    "id": "6047533b-bed7-4a16-88f1-4b8cda96698e",
+    "name": "Bakmi",
+    "origin": "Indonesia",
+    "ingredients": [
+      "bumbu-bumbu Indonesia"
+    ]
+  },
+  {
+    "id": "a5650e8f-bd84-496e-a174-b615686456fd",
+    "name": "Bika Ambon",
+    "origin": "Sumatera Utara",
+    "ingredients": [
+      "bahan-bahan seperti tepung tapioka",
+      "telur",
+      "gula",
+      "santan"
+    ]
+  },
+  {
+    "id": "dd212ce0-d4df-423f-b48b-fa9ec5b67cb5",
+    "name": "Sate Lilit",
+    "origin": "Bali",
+    "ingredients": [
+      "daging babi",
+      "ikan",
+      "ayam",
+      "daging sapi",
+      "atau bahkan kura-kura yang dicincang",
+      "kemudian dicampur dengan parutan kelapa",
+      "santan",
+      "jeruk nipis"
+    ]
+  },
+  {
+    "id": "271b3cc0-0abc-4dd5-b31f-0f57596d361c",
+    "name": "Nasi dagang",
+    "origin": "Riau, Riau",
+    "ingredients": [
+      "campuran beras",
+      "ketan yang ditanak dengan santan kelapa"
+    ]
+  },
+  {
+    "id": "4d600aa1-2405-4525-a383-922b32fd1b16",
+    "name": "Nasi goreng",
+    "origin": "Jawa Tengah",
+    "ingredients": [
+      "pelengkap seperti telur",
+      "sayur-sayuran",
+      "makanan laut",
+      "atau daging"
+    ]
+  },
+  {
+    "id": "8c574271-78bd-4ab1-bf10-3059cdd3194d",
+    "name": "Nasi goreng pattaya",
+    "origin": "Malay, Riau",
+    "ingredients": [
+      "telur dadar yang tipis [butuh rujukan]"
+    ]
+  }
+]

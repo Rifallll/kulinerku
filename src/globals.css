@@ -1,0 +1,128 @@
+/* stylelint-disable */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    /* Pure White */
+    --foreground: 0 0% 10%;
+    /* Very Dark Grey/Black for softer contrast than pure black */
+
+    --card: 0 0% 100%;
+    /* White */
+    --card-foreground: 0 0% 10%;
+    /* Dark Grey */
+
+    --popover: 0 0% 100%;
+    /* White */
+    --popover-foreground: 0 0% 10%;
+    /* Dark Grey */
+
+    --primary: 30 50% 30%;
+    /* Rich Deep Brown */
+    --primary-foreground: 0 0% 100%;
+    /* White */
+
+    --secondary: 30 20% 96%;
+    /* Very Light Warm Beige (Off-white) */
+    --secondary-foreground: 30 50% 30%;
+    /* Deep Brown */
+
+    --muted: 30 10% 96%;
+    /* Very Light Beige */
+    --muted-foreground: 0 0% 40%;
+    /* Medium Grey */
+
+    --accent: 30 20% 94%;
+    /* Light Beige Accent */
+    --accent-foreground: 30 50% 30%;
+    /* Deep Brown */
+
+    --destructive: 0 84.2% 60.2%;
+    /* Red */
+    --destructive-foreground: 0 0% 100%;
+    /* White */
+
+    --border: 30 5% 90%;
+    /* Light Warm Grey */
+    --input: 30 5% 90%;
+    /* Light Warm Grey */
+    --ring: 30 50% 30%;
+    /* Deep Brown */
+
+    --radius: 0.75rem;
+    /* Increased radius for softer look */
+
+    --sidebar-background: 0 0% 98%;
+    /* Off-white */
+    --sidebar-foreground: 0 0% 10%;
+    /* Dark Grey */
+    --sidebar-primary: 30 50% 30%;
+    /* Deep Brown */
+    --sidebar-primary-foreground: 0 0% 100%;
+    /* White */
+    --sidebar-accent: 30 20% 94%;
+    /* Light Beige */
+    --sidebar-accent-foreground: 30 50% 30%;
+    /* Deep Brown */
+    --sidebar-border: 30 5% 90%;
+    /* Light Warm Grey */
+    --sidebar-ring: 30 50% 30%;
+    /* Deep Brown */
+  }
+
+  .dark {
+    /* Keeping dark mode as a fallback, but user prefers white/brown. 
+       Adjusting to be consistent with the requested aesthetic just in case. */
+    --background: 20 14.3% 4.1%;
+    --foreground: 0 0% 95%;
+
+    --card: 20 14.3% 4.1%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 20 14.3% 4.1%;
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 30 40% 70%;
+    --primary-foreground: 20 14.3% 4.1%;
+
+    --secondary: 20 10% 15%;
+    --secondary-foreground: 0 0% 95%;
+
+    --muted: 20 10% 15%;
+    --muted-foreground: 30 10% 60%;
+
+    --accent: 20 10% 15%;
+    --accent-foreground: 0 0% 95%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 20 10% 25%;
+    --input: 20 10% 25%;
+    --ring: 30 40% 70%;
+
+    --sidebar-background: 20 14.3% 8%;
+    --sidebar-foreground: 0 0% 90%;
+    --sidebar-primary: 30 40% 70%;
+    --sidebar-primary-foreground: 20 14.3% 4.1%;
+    --sidebar-accent: 20 10% 20%;
+    --sidebar-accent-foreground: 0 0% 90%;
+    --sidebar-border: 20 10% 30%;
+    --sidebar-ring: 30 40% 70%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    overflow-x: hidden;
+    /* Prevent horizontal scroll */
+  }
+}

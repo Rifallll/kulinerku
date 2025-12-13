@@ -1,0 +1,25 @@
+{
+    "name": "Kulinerku - Jelajahi Kuliner Nusantara",
+    "short_name": "Kulinerku",
+    "description": "Platform eksplorasi kuliner tradisional Indonesia dari 38 provinsi",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#FF6B6B",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        }
+    ],
+    "categories": [
+        "food",
+        "lifestyle",
+        "education"
+    ],
+    "screenshots": [],
+    "related_applications": [],
+    "prefer_related_applications": false
+}

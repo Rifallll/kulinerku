@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "name": "Rendang",
+        "region": "Padang, Sumatera Barat",
+        "location": "Padang",
+        "lat": -0.9471,
+        "lng": 100.4172,
+        "description": "Masakan daging sapi dengan bumbu rempah dan santan yang dimasak lama hingga kering. Dinobatkan sebagai salah satu makanan terenak di dunia.",
+        "image": "https://placehold.co/400x300?text=Rendang"
+    },
+    {
+        "id": 2,
+        "name": "Pempek",
+        "region": "Palembang, Sumatera Selatan",
+        "location": "Palembang",
+        "lat": -2.9761,
+        "lng": 104.7754,
+        "description": "Olahan ikan tenggiri dan tepung tapioka yang disajikan dengan kuah cuko pedas manis.",
+        "image": "https://placehold.co/400x300?text=Pempek"
+    },
+    {
+        "id": 3,
+        "name": "Sate Padang",
+        "region": "Padang, Sumatera Barat",
+        "location": "Padang",
+        "lat": -0.9500,
+        "lng": 100.3500,
+        "description": "Sate daging sapi atau lidah dengan kuah kental kuning/merah yang kaya rempah.",
+        "image": "https://placehold.co/400x300?text=Sate+Padang"
+    },
+    {
+        "id": 4,
+        "name": "Mie Aceh",
+        "region": "Aceh",
+        "location": "Banda Aceh",
+        "lat": 5.5483,
+        "lng": 95.3238,
+        "description": "Mie kuning tebal dengan bumbu kari pedas, disajikan dengan daging kambing atau seafood.",
+        "image": "https://placehold.co/400x300?text=Mie+Aceh"
+    },
+    {
+        "id": 5,
+        "name": "Bika Ambon",
+        "region": "Medan, Sumatera Utara",
+        "location": "Medan",
+        "lat": 3.5952,
+        "lng": 98.6722,
+        "description": "Kue pipih berwarna kuning dengan tekstur bersarang yang legit dan harum daun jeruk/pandan.",
+        "image": "https://placehold.co/400x300?text=Bika+Ambon"
+    },
+    {
+        "id": 6,
+        "name": "Kerak Telor",
+        "region": "Jakarta (Betawi)",
+        "location": "Jakarta",
+        "lat": -6.1751,
+        "lng": 106.8650,
+        "description": "Makanan khas Betawi dari beras ketan, telur, dan serundeng yang dimasak di atas wajan tanpa minyak.",
+        "image": "https://placehold.co/400x300?text=Kerak+Telor"
+    },
+    {
+        "id": 7,
+        "name": "Soto Betawi",
+        "region": "Jakarta",
+        "location": "Jakarta Selatan",
+        "lat": -6.2615,
+        "lng": 106.8106,
+        "description": "Soto dengan kuah santan dan susu yang gurih, berisi daging sapi dan jeroan.",
+        "image": "https://placehold.co/400x300?text=Soto+Betawi"
+    },
+    {
+        "id": 8,
+        "name": "Batagor",
+        "region": "Bandung, Jawa Barat",
+        "location": "Bandung",
+        "lat": -6.9175,
+        "lng": 107.6191,
+        "description": "Singkatan dari Bakso Tahu Goreng, disajikan dengan bumbu kacang dan kecap manis.",
+        "image": "https://placehold.co/400x300?text=Batagor"
+    },
+    {
+        "id": 9,
+        "name": "Gudeg",
+        "region": "Yogyakarta",
+        "location": "Yogyakarta",
+        "lat": -7.7956,
+        "lng": 110.3695,
+        "description": "Sayur nangka muda yang dimasak lama dengan santan dan gula merah hingga manis dan gurih.",
+        "image": "https://placehold.co/400x300?text=Gudeg"
+    },
+    {
+        "id": 10,
+        "name": "Lumpia",
+        "region": "Semarang, Jawa Tengah",
+        "location": "Semarang",
+        "lat": -6.9667,
+        "lng": 110.4167,
+        "description": "Gorengan berisi rebung, telur, dan ayam/udang. Ikon kuliner kota Semarang.",
+        "image": "https://placehold.co/400x300?text=Lumpia"
+    },
+    {
+        "id": 11,
+        "name": "Tengkleng",
+        "region": "Solo, Jawa Tengah",
+        "location": "Surakarta",
+        "lat": -7.5755,
+        "lng": 110.8243,
+        "description": "Sup tulang kambing dengan kuah encer pedas yang menyegarkan.",
+        "image": "https://placehold.co/400x300?text=Tengkleng"
+    },
+    {
+        "id": 12,
+        "name": "Rawon",
+        "region": "Surabaya, Jawa Timur",
+        "location": "Surabaya",
+        "lat": -7.2575,
+        "lng": 112.7521,
+        "description": "Sup daging berkuah hitam pekat dari kluwek, rasanya gurih dan unik.",
+        "image": "https://placehold.co/400x300?text=Rawon"
+    },
+    {
+        "id": 13,
+        "name": "Rujak Cingur",
+        "region": "Surabaya, Jawa Timur",
+        "location": "Surabaya Timur",
+        "lat": -7.2450,
+        "lng": 112.7900,
+        "description": "Salad sayur dan buah dengan irisan cingur (hidung sapi) dan bumbu petis.",
+        "image": "https://placehold.co/400x300?text=Rujak+Cingur"
+    },
+    {
+        "id": 14,
+        "name": "Sate Madura",
+        "region": "Madura, Jawa Timur",
+        "location": "Bangkalan",
+        "lat": -7.0394,
+        "lng": 112.7381,
+        "description": "Sate ayam dengan bumbu kacang kental yang manis gurih, sangat populer di seluruh Indonesia.",
+        "image": "https://placehold.co/400x300?text=Sate+Madura"
+    },
+    {
+        "id": 15,
+        "name": "Sate Lilit",
+        "region": "Bali",
+        "location": "Denpasar",
+        "lat": -8.6705,
+        "lng": 115.2126,
+        "description": "Sate dari daging cincang (ikan/ayam) yang dicampur parutan kelapa dan dililitkan pada batang serai.",
+        "image": "https://placehold.co/400x300?text=Sate+Lilit"
+    },
+    {
+        "id": 16,
+        "name": "Ayam Betutu",
+        "region": "Bali",
+        "location": "Gianyar",
+        "lat": -8.5416,
+        "lng": 115.3228,
+        "description": "Ayam utuh yang dimasak dengan bumbu base genep super pedas dan kaya rempah.",
+        "image": "https://placehold.co/400x300?text=Ayam+Betutu"
+    },
+    {
+        "id": 17,
+        "name": "Ayam Taliwang",
+        "region": "Lombok, NTB",
+        "location": "Mataram",
+        "lat": -8.5833,
+        "lng": 116.1167,
+        "description": "Ayam bakar pedas dengan bumbu cabai, bawang, dan terasi khas Lombok.",
+        "image": "https://placehold.co/400x300?text=Ayam+Taliwang"
+    },
+    {
+        "id": 18,
+        "name": "Coto Makassar",
+        "region": "Makassar, Sulawesi Selatan",
+        "location": "Makassar",
+        "lat": -5.1477,
+        "lng": 119.4328,
+        "description": "Soto daging dengan kuah kental dari kacang tanah yang disajikan dengan buras.",
+        "image": "https://placehold.co/400x300?text=Coto+Makassar"
+    },
+    {
+        "id": 19,
+        "name": "Bubur Manado",
+        "region": "Manado, Sulawesi Utara",
+        "location": "Manado",
+        "lat": 1.4748,
+        "lng": 124.8428,
+        "description": "Bubur nasi dengan campuran labu kuning, jagung, bayam, dan kemangi. Sangat sehat!",
+        "image": "https://placehold.co/400x300?text=Bubur+Manado"
+    },
+    {
+        "id": 20,
+        "name": "Papeda",
+        "region": "Papua / Maluku",
+        "location": "Jayapura",
+        "lat": -2.5000,
+        "lng": 140.7000,
+        "description": "Makanan pokok dari sagu yang bertekstur lengket seperti lem, disajikan dengan kuah ikan kuning.",
+        "image": "https://placehold.co/400x300?text=Papeda"
+    },
+    {
+        "id": 21,
+        "name": "Soto Banjar",
+        "region": "Banjarmasin, Kalimantan Selatan",
+        "location": "Banjarmasin",
+        "lat": -3.3194,
+        "lng": 114.5908,
+        "description": "Soto ayam berkuah bening namun kaya rempah (kayu manis, cengkeh), disajikan dengan ketupat.",
+        "image": "https://placehold.co/400x300?text=Soto+Banjar"
+    },
+    {
+        "id": 22,
+        "name": "Gulai Belacan",
+        "region": "Pekanbaru, Riau",
+        "location": "Pekanbaru",
+        "lat": 0.5071,
+        "lng": 101.4478,
+        "description": "Gulai ikan dengan belacan yang gurih pedas khas Melayu Riau.",
+        "image": "https://placehold.co/400x300?text=Gulai+Belacan"
+    },
+    {
+        "id": 23,
+        "name": "Juhu Singkah",
+        "region": "Balikpapan, Kalimantan Timur",
+        "location": "Balikpapan",
+        "lat": -1.2675,
+        "lng": 116.8289,
+        "description": "Sup bunga pepaya khas Dayak yang segar dan unik.",
+        "image": "https://placehold.co/400x300?text=Juhu+Singkah"
+    },
+    {
+        "id": 24,
+        "name": "Nasi Kuning",
+        "region": "Makassar, Sulawesi Selatan",
+        "location": "Makassar",
+        "lat": -5.1350,
+        "lng": 119.4230,
+        "description": "Nasi berwarna kuning bumbu kunyit, disajikan dengan lauk lengkap.",
+        "image": "https://placehold.co/400x300?text=Nasi+Kuning"
+    },
+    {
+        "id": 25,
+        "name": "Tinutuan",
+        "region": "Manado, Sulawesi Utara",
+        "location": "Manado",
+        "lat": 1.4940,
+        "lng": 124.8413,
+        "description": "Bubur Manado dengan sayuran segar dan ikan asap.",
+        "image": "https://placehold.co/400x300?text=Tinutuan"
+    },
+    {
+        "id": 26,
+        "name": "Ikan Bakar Dabu-Dabu",
+        "region": "Manado, Sulawesi Utara",
+        "location": "Bitung",
+        "lat": 1.4507,
+        "lng": 125.1838,
+        "description": "Ikan bakar dengan sambal dabu-dabu khas Minahasa yang pedas segar.",
+        "image": "https://placehold.co/400x300?text=Ikan+Bakar+Dabu"
+    },
+    {
+        "id": 27,
+        "name": "Kapurung",
+        "region": "Palopo, Sulawesi Selatan",
+        "location": "Palopo",
+        "lat": -2.9936,
+        "lng": 120.1948,
+        "description": "Sup dengan bola-bola sagu dan sayuran, makanan khas suku Bugis.",
+        "image": "https://placehold.co/400x300?text=Kapurung"
+    },
+    {
+        "id": 28,
+        "name": "Ikan Patin",
+        "region": "Jambi",
+        "location": "Jambi",
+        "lat": -1.6101,
+        "lng": 103.6131,
+        "description": "Ikan patin dengan kuah asam pedas yang segar khas Jambi.",
+        "image": "https://placehold.co/400x300?text=Ikan+Patin"
+    },
+    {
+        "id": 29,
+        "name": "Seruit",
+        "region": "Lampung",
+        "location": "Bandar Lampung",
+        "lat": -5.4292,
+        "lng": 105.2625,
+        "description": "Ikan bakar dengan sambal terasi pedas khas Lampung.",
+        "image": "https://placehold.co/400x300?text=Seruit"
+    },
+    {
+        "id": 30,
+        "name": "Kemplang",
+        "region": "Palembang, Sumatera Selatan",
+        "location": "Palembang",
+        "lat": -2.9885,
+        "lng": 104.7565,
+        "description": "Kerupuk ikan renyah khas Palembang.",
+        "image": "https://placehold.co/400x300?text=Kemplang"
+    },
+    {
+        "id": 31,
+        "name": "Laksa Tangerang",
+        "region": "Tangerang, Banten",
+        "location": "Tangerang",
+        "lat": -6.1781,
+        "lng": 106.6300,
+        "description": "Laksa kuah santan pedas dengan tauge dan bihun.",
+        "image": "https://placehold.co/400x300?text=Laksa+Tangerang"
+    },
+    {
+        "id": 32,
+        "name": "Nasi Bogana",
+        "region": "Tegal, Jawa Tengah",
+        "location": "Tegal",
+        "lat": -6.8694,
+        "lng": 109.1402,
+        "description": "Nasi bungkus dengan ayam dan telur dimasak santan khas Tegal.",
+        "image": "https://placehold.co/400x300?text=Nasi+Bogana"
+    },
+    {
+        "id": 33,
+        "name": "Pecel Madiun",
+        "region": "Madiun, Jawa Timur",
+        "location": "Madiun",
+        "lat": -7.6298,
+        "lng": 111.5239,
+        "description": "Sayuran rebus dengan bumbu kacang pedas khas Madiun.",
+        "image": "https://placehold.co/400x300?text=Pecel+Madiun"
+    },
+    {
+        "id": 34,
+        "name": "Tahu Tek",
+        "region": "Surabaya, Jawa Timur",
+        "location": "Surabaya",
+        "lat": -7.2504,
+        "lng": 112.7688,
+        "description": "Tahu goreng dengan lontong, tauge, dan bumbu kacang pedas.",
+        "image": "https://placehold.co/400x300?text=Tahu+Tek"
+    },
+    {
+        "id": 35,
+        "name": "Soto Lamongan",
+        "region": "Lamongan, Jawa Timur",
+        "location": "Lamongan",
+        "lat": -7.1194,
+        "lng": 112.4184,
+        "description": "Soto ayam khas Lamongan dengan kuah bening dan koya.",
+        "image": "https://placehold.co/400x300?text=Soto+Lamongan"
+    },
+    {
+        "id": 36,
+        "name": "Nasi Liwet",
+        "region": "Solo, Jawa Tengah",
+        "location": "Surakarta",
+        "lat": -7.5568,
+        "lng": 110.8315,
+        "description": "Nasi gurih dengan ayam suwir, areh, dan sayuran.",
+        "image": "https://placehold.co/400x300?text=Nasi+Liwet"
+    },
+    {
+        "id": 37,
+        "name": "Serabi",
+        "region": "Solo, Jawa Tengah",
+        "location": "Surakarta",
+        "lat": -7.5680,
+        "lng": 110.8267,
+        "description": "Pancake tradisional manis dengan kinca (kuah gula merah).",
+        "image": "https://placehold.co/400x300?text=Serabi"
+    },
+    {
+        "id": 38,
+        "name": "Tahu Gejrot",
+        "region": "Cirebon, Jawa Barat",
+        "location": "Cirebon",
+        "lat": -6.7063,
+        "lng": 108.5571,
+        "description": "Tahu goreng dengan kuah asam manis pedas khas Cirebon.",
+        "image": "https://placehold.co/400x300?text=Tahu+Gejrot"
+    },
+    {
+        "id": 39,
+        "name": "Nasi Jamblang",
+        "region": "Cirebon, Jawa Barat",
+        "location": "Cirebon",
+        "lat": -6.7320,
+        "lng": 108.5520,
+        "description": "Nasi dibungkus daun jati dengan aneka lauk pedas.",
+        "image": "https://placehold.co/400x300?text=Nasi+Jamblang"
+    },
+    {
+        "id": 40,
+        "name": "Kue Pancong",
+        "region": "Jakarta (Betawi)",
+        "location": "Jakarta Barat",
+        "lat": -6.1668,
+        "lng": 106.7638,
+        "description": "Kue tradisional Betawi dari kelapa dan gula merah.",
+        "image": "https://placehold.co/400x300?text=Kue+Pancong"
+    },
+    {
+        "id": 41,
+        "name": "Kupat Tahu",
+        "region": "Magelang, Jawa Tengah",
+        "location": "Magelang",
+        "lat": -7.4704,
+        "lng": 110.2177,
+        "description": "Ketupat, tahu, kecambah dengan kuah petis dan bumbu kacang.",
+        "image": "https://placehold.co/400x300?text=Kupat+Tahu"
+    },
+    {
+        "id": 42,
+        "name": "Bebek Goreng",
+        "region": "Surabaya, Jawa Timur",
+        "location": "Surabaya",
+        "lat": -7.2819,
+        "lng": 112.7950,
+        "description": "Bebek goreng kering dengan sambal pedas.",
+        "image": "https://placehold.co/400x300?text=Bebek+Goreng"
+    },
+    {
+        "id": 43,
+        "name": "Nasi Krawu",
+        "region": "Gresik, Jawa Timur",
+        "location": "Gresik",
+        "lat": -7.1564,
+        "lng": 112.6539,
+        "description": "Nasi dengan daging sapi, serundeng, dan sambal khas Gresik.",
+        "image": "https://placehold.co/400x300?text=Nasi+Krawu"
+    },
+    {
+        "id": 44,
+        "name": "Ayam Lombok Ijo",
+        "region": "Magelang, Jawa Tengah",
+        "location": "Magelang",
+        "lat": -7.4800,
+        "lng": 110.2170,
+        "description": "Ayam bakar dengan cabai hijau pedas khas Magelang.",
+        "image": "https://placehold.co/400x300?text=Ayam+Lombok+Ijo"
+    },
+    {
+        "id": 45,
+        "name": "Nasi Pecel Pincuk",
+        "region": "Kediri, Jawa Timur",
+        "location": "Kediri",
+        "lat": -7.8152,
+        "lng": 112.0178,
+        "description": "Nasi pecel dibungkus daun pisang dengan rempeyek.",
+        "image": "https://placehold.co/400x300?text=Nasi+Pecel"
+    },
+    {
+        "id": 46,
+        "name": "Bakpia Pathok",
+        "region": "Yogyakarta",
+        "location": "Yogyakarta",
+        "lat": -7.7833,
+        "lng": 110.3667,
+        "description": "Kue kering isi kacang hijau manis khas Yogyakarta.",
+        "image": "https://placehold.co/400x300?text=Bakpia"
+    },
+    {
+        "id": 47,
+        "name": "Klepon",
+        "region": "Madiun, Jawa Timur",
+        "location": "Madiun",
+        "lat": -7.6300,
+        "lng": 111.5300,
+        "description": "Kue tradisional hijau isi gula merah dengan taburan kelapa.",
+        "image": "https://placehold.co/400x300?text=Klepon"
+    },
+    {
+        "id": 48,
+        "name": "Ayam Penyet",
+        "region": "Surabaya, Jawa Timur",
+        "location": "Surabaya",
+        "lat": -7.2900,
+        "lng": 112.7400,
+        "description": "Ayam goreng geprek dengan sambal terasi super pedas.",
+        "image": "https://placehold.co/400x300?text=Ayam+Penyet"
+    },
+    {
+        "id": 49,
+        "name": "Sate Blora",
+        "region": "Blora, Jawa Tengah",
+        "location": "Blora",
+        "lat": -6.9698,
+        "lng": 111.4176,
+        "description": "Sate ayam dengan bumbu kacang khas Blora.",
+        "image": "https://placehold.co/400x300?text=Sate+Blora"
+    },
+    {
+        "id": 50,
+        "name": "Garang Asem",
+        "region": "Semarang, Jawa Tengah",
+        "location": "Semarang",
+        "lat": -7.0051,
+        "lng": 110.4381,
+        "description": "Ayam dimasak asam dengan daun pisang, rasa segar.",
+        "image": "https://placehold.co/400x300?text=Garang+Asem"
+    },
+    {
+        "id": 51,
+        "name": "Sate Ponorogo",
+        "region": "Ponorogo, Jawa Timur",
+        "location": "Ponorogo",
+        "lat": -7.8697,
+        "lng": 111.4619,
+        "description": "Sate ayam dengan bumbu kacang pedas kental.",
+        "image": "https://placehold.co/400x300?text=Sate+Ponorogo"
+    },
+    {
+        "id": 52,
+        "name": "Lodeh Terong",
+        "region": "Jakarta (Betawi)",
+        "location": "Jakarta Timur",
+        "lat": -6.2250,
+        "lng": 106.8961,
+        "description": "Sayur terong dengan kuah santan khas Betawi.",
+        "image": "https://placehold.co/400x300?text=Lodeh+Terong"
+    },
+    {
+        "id": 53,
+        "name": "Wingko Babat",
+        "region": "Semarang, Jawa Tengah",
+        "location": "Semarang",
+        "lat": -6.9932,
+        "lng": 110.4203,
+        "description": "Kue kelapa legit khas Semarang.",
+        "image": "https://placehold.co/400x300?text=Wingko+Babat"
+    },
+    {
+        "id": 54,
+        "name": "Peuyeum Bandung",
+        "region": "Bandung, Jawa Barat",
+        "location": "Bandung",
+        "lat": -6.9030,
+        "lng": 107.6186,
+        "description": "Tape singkong manis fermentasi khas Bandung.",
+        "image": "https://placehold.co/400x300?text=Peuyeum"
+    },
+    {
+        "id": 55,
+        "name": "Surabi",
+        "region": "Bandung, Jawa Barat",
+        "location": "Bandung",
+        "lat": -6.9147,
+        "lng": 107.6098,
+        "description": "Pancake tradisional dengan oncom atau coklat.",
+        "image": "https://placehold.co/400x300?text=Surabi"
+    }
+]

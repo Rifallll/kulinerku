@@ -1,0 +1,13 @@
+// Quick manual fix for FoodDetail.tsx ingredients section
+// Just replace line 176 with this code:
+
+{(food.name === 'Sate Maranggi' 
+  ? ['Daging kambing/sapi', 'Bumbu kecap manis', 'Bawang merah', 'Bawang putih', 'Ketumbar', 'Garam', 'Merica']
+  : food.name === 'Rendang'
+  ? ['Daging sapi', 'Santan kelapa', 'Cabai merah', 'Bawang merah', 'Bawang putih', 'Lengkuas', 'Serai', 'Daun jeruk']
+  : food.name === 'Nasi Goreng'
+  ? ['Nasi putih', 'Kecap manis', 'Bawang merah', 'Bawang putih', 'Cabai', 'Telur', 'Ayam/udang']
+  : food.name === 'Soto Ayam'
+  ? ['Ayam kampung', 'Kunyit', 'Jahe', 'Bawang merah', 'Bawang putih', 'Seledri', 'Daun bawang']
+  : ['Rempah pilihan', 'Bahan berkualitas', 'Bumbu tradisional', 'Pelengkap segar']
+).map((item, idx) => (
