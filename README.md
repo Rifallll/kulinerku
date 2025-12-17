@@ -39,6 +39,7 @@ Ikuti langkah ini untuk menjalankan aplikasi di komputer Anda:
 2.  **Install Dependencies**
     ```bash
     npm install
+    
     ```
 
 3.  **Setup Environment Variables**
@@ -52,8 +53,12 @@ Ikuti langkah ini untuk menjalankan aplikasi di komputer Anda:
 4.  **Jalankan Server**
     ```bash
     npm run dev
+    npm install express cors @google/generative-ai dotenv --legacy-peer-dep
+    -node server.js > dijlankan di terminal yang beda-
     ```
     Buka [http://localhost:8080](http://localhost:8080) di browser.
+
+    
     
     > **Catatan:** Untuk fitur AI Chat di local, pastikan menjalankan `node server.js` di terminal terpisah jika ingin menggunakan backend local, ATAU biarkan aplikasi menggunakan Serverless Function saat di-deploy.
 
